@@ -1,11 +1,3 @@
-# 📚 Week01_Requests_BeautifulSoup
+# Week 1: Requests + BeautifulSoup
 
-**Week Topic:** Requests + BeautifulSoup (Static Scraping)
-
-## 📝 Notes:
-
-- 
-
-## 🧪 Mini Projects:
-
-- 
+This week covers static web scraping using Python's `requests` and `BeautifulSoup` libraries.
